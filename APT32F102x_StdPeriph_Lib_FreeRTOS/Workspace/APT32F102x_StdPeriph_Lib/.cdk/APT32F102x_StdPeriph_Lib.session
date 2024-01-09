@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="D:\2021-04\APT32F102\LIB\APT32F102x_StdPeriph_Lib_V1_17_NoTK\Workspace\APT32F102x_StdPeriph_Lib\APT32F102x_StdPeriph_Lib.cdkws">
+  <int Value="3" Name="m_selectedTab"/>
+  <wxString Value="D:\2021-04\APT32F102\LIB\APT32F102x_StdPeriph_Lib_V1_17_NoTK\Workspace\APT32F102x_StdPeriph_Lib\APT32F102x_StdPeriph_Lib.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="D:\2021-04\APT32F102\LIB\APT32F102x_StdPeriph_Lib_V1_17_NoTK\Source\apt32f102_initial.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="465" Name="FirstVisibleLine"/>
+      <int Value="476" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\2021-04\APT32F102\LIB\APT32F102x_StdPeriph_Lib_V1_17_NoTK\Source\apt32f102_interrupt.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="445" Name="FirstVisibleLine"/>
+      <int Value="434" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\2021-04\APT32F102\LIB\APT32F102x_StdPeriph_Lib_V1_17_NoTK\Source\main.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="54" Name="FirstVisibleLine"/>
+      <int Value="58" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\2021-04\APT32F102\LIB\APT32F102x_StdPeriph_Lib_V1_17_NoTK\Source\FWlib\apt32f102_syscon.c" Name="FileName"/>
+      <wxString Value="apt32f102" Name="ProjectName"/>
+      <int Value="51" Name="FirstVisibleLine"/>
+      <int Value="164" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
